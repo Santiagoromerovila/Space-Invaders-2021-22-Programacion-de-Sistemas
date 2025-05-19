@@ -1,2 +1,6 @@
 # Space-Invaders-2021-22-Sistemas-de-Programaci-n
-Este proyecto forma parte de la asignatura de Sistemas de Programación de tercer curso de Ingeniería Industrial, realizado en el año 2021/22.
+Este proyecto forma parte de la asignatura de Sistemas de Programación de tercer curso de Ingeniería Industrial, realizado en el año 2021/22. El objetivo del trabajo fue desarrollar una versión del clásico juego Space Invaders utilizando C++ en conjunto con la librería OpenGL para la representación visual.
+
+El uso de OpenGL permitió al equipo crear gráficos interactivos y eficientes, proporcionando una experiencia visual atractiva y dinámica. A lo largo del desarrollo, se implementaron conceptos avanzados de programación, optimización de recursos y renderizado gráfico, ofreciendo así una versión moderna y funcional del juego.
+
+Este trabajo no solo permitió a los estudiantes aplicar los conocimientos teóricos adquiridos en la asignatura, sino también ganar experiencia práctica en el desarrollo de aplicaciones gráficas complejas.
