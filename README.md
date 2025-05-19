@@ -4,3 +4,5 @@ Este proyecto forma parte de la asignatura de Sistemas de Programación de terce
 El uso de OpenGL permitió al equipo crear gráficos interactivos y eficientes, proporcionando una experiencia visual atractiva y dinámica. A lo largo del desarrollo, se implementaron conceptos avanzados de programación, optimización de recursos y renderizado gráfico, ofreciendo así una versión moderna y funcional del juego.
 
 Este trabajo no solo permitió a los estudiantes aplicar los conocimientos teóricos adquiridos en la asignatura, sino también ganar experiencia práctica en el desarrollo de aplicaciones gráficas complejas.
+
+Agradecer a mis compañeros Marina y Álvaro Guzmán en el desarrollo de este juego.
