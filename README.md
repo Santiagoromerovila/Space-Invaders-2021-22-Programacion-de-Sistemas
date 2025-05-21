@@ -5,4 +5,4 @@ El uso de OpenGL permitió al equipo crear gráficos interactivos y eficientes, 
 
 Este trabajo no solo permitió a los estudiantes aplicar los conocimientos teóricos adquiridos en la asignatura, sino también ganar experiencia práctica en el desarrollo de aplicaciones gráficas complejas.
 
-Agradecer a mis compañeros Marina y Álvaro Guzmán en el desarrollo de este juego.
+Agradecer a mis compañeros Marina Lara y Álvaro Guzmán en el desarrollo de este juego.
